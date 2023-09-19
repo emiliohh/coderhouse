@@ -7,4 +7,4 @@ cliente1.comprar("Laptop","Walmart")
 cliente1.devlolver("PlayStaion 5","Sony")
 print(cliente1)
 
-
+#hola
